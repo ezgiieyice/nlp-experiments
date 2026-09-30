@@ -1,0 +1,16 @@
+torch
+transformers
+sentence-transformers
+datasets
+accelerate
+huggingface_hub
+tensorflow
+tensorflow-datasets
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+requests
+jupyter
